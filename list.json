@@ -1,0 +1,84 @@
+{
+    "list":[
+        {
+            "Sl No" : 1,
+            "Name" : "Rice",
+            "Quantity" : 1,
+            "Unity" : "kg",
+            "Department" : "Cereals",
+            "Notes" : "Kaima"
+         },
+         {
+           "Sl No" : 2,
+           "Name" : "Oil",
+           "Quantity" : 1,
+           "Unity" : "Litre",
+           "Department" : "Coconut",
+           "Notes" : "Packet"
+        },
+        {
+           "Sl No" : 3,
+           "Name" : "Egg",
+           "Quantity" : 10,
+           "Unity" : "kg",
+           "Department" : "Dairy",
+           "Notes" : "Duck"
+        },
+        {
+           "Sl No" : 4,
+           "Name" : "Onion",
+           "Quantity" : 1,
+           "Unity" : "kg",
+           "Department" : "Vegetables",
+           "Notes" : "Fresh"
+        },
+        {
+           "Sl No" : 5,
+           "Name" : "Green gram",
+           "Quantity" : 1,
+           "Unity" : "kg",
+           "Department" : "Cereal",
+           "Notes" : "Fresh"
+        },
+        {
+           "Sl No" : 6,
+           "Name" : "Orange",
+           "Quantity" : 1,
+           "Unity" : "kg",
+           "Department" : "Fruits",
+           "Notes" : "Fresh"
+        },
+        {
+           "Sl No" : 7,
+           "Name" : "Apple",
+           "Quantity" : ,
+           "Unity" : "kg",
+           "Department" : "Fruits",
+           "Notes" : "Fresh"
+        },
+        {
+           "Sl No" : 8,
+           "Name" : "Chilli powder",
+           "Quantity" : 500,
+           "Unity" : "grms",
+           "Department" : "Kashmiri",
+           "Notes" : "Fresh"
+        },
+        {
+           "Sl No" : 9,
+           "Name" : "Hand Wash",
+           "Quantity" : 1,
+           "Unity" : "Gram",
+           "Department" : "Dettol",
+           "Notes" : "Packet"
+        },
+        {
+           "Sl No" : 10,
+           "Name" : "Tomato",
+           "Quantity" : 1,
+           "Unity" : "kg",
+           "Department" : "Vegetables",
+           "Notes" : "Fresh"
+        }
+      ]
+}
